@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 HI , I am Menna Elgallad , Vue/Nuxt front end web developer<br>⚡ i'm currently working on learning React <br>
+🔭 HI , I am Menna Elgallad , Vue/Nuxt front end web developer<br>
 
 
 ## 🌐 Socials:
